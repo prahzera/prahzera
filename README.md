@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js and PHP.**
 
-- 💬 Ask me about **Discord.js**
+- 💬 Ask me about **FIRST PERSON SHOOTERS**
 
 - 📫 How to reach me **cejotarodrigues@gmail.com**
 
