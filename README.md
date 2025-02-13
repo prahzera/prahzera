@@ -25,9 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/prah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prah" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prahzera&show_icons=true&locale=en&layout=compact" alt="prahzera" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prahzera&show_icons=true&locale=en" alt="prahzera" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahzera&" alt="prahzera" /></p>
