@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahzera&label=Profile%20views&color=0e75b6&style=flat" alt="prahzera" /> </p>
 
-- 🔭 I’m currently working on [HaporeDiscordBot](https://github.com/prahzera/HaporeDiscordBot)
-
-- 🌱 I’m currently learning **Node.js and PHP.**
-
-- 💬 Ask me about **FIRST PERSON SHOOTERS**
-
-- 📫 How to reach me **cejotarodrigues@gmail.com**
-
-- ⚡ Fun fact **juan.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://instagram.com/prahfps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahfps" height="30" width="40" /></a> -->
